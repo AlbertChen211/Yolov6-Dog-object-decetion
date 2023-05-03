@@ -1,0 +1,4 @@
+husky 0.0012 0 44 49 423
+Corgi 0.0010 313 1 415 417
+dachshund 0.0027 313 1 415 417
+golden retriever 0.9178 94 0 292 413

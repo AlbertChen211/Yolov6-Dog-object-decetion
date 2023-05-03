@@ -1,0 +1,3 @@
+dachshund 0.0110 83 132 393 388
+labrado 0.9062 79 132 387 387
+golden retriever 0.0028 80 133 396 393

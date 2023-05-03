@@ -1,0 +1,4 @@
+Pomeranian 0.0022 74 0 364 414
+labrado 0.0023 73 3 359 416
+golden retriever 0.0010 73 3 359 416
+samoyed 0.9475 72 0 358 416

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>博美jpg</folder>
+	<filename>Pomeranian_10.jpg</filename>
+	<path>C:/dogdog/博美jpg/Pomeranian_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pomeranian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>7</ymin>
+			<xmax>365</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

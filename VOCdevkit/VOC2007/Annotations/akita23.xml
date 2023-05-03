@@ -1,0 +1,26 @@
+<annotation>
+	<folder>秋田犬jpg416</folder>
+	<filename>akita23.jpg</filename>
+	<path>C:/Users/USER/Downloads/秋田犬jpg416/akita23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>akita</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>99</ymin>
+			<xmax>321</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

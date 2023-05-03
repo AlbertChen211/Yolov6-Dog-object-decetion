@@ -1,0 +1,2 @@
+Pomeranian 196 142 359 395
+Pomeranian 89 27 260 302

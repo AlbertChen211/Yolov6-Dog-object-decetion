@@ -1,0 +1,2 @@
+golden retriever 0.9418 38 3 320 415
+samoyed 0.0035 36 6 323 414

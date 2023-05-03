@@ -1,0 +1,26 @@
+<annotation>
+	<folder>柯基jpg</folder>
+	<filename>Corgi_212.jpg</filename>
+	<path>C:/dogdog/柯基jpg/Corgi_212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corgi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>35</ymin>
+			<xmax>326</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

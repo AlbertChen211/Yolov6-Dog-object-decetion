@@ -1,0 +1,2 @@
+golden retriever 0.0059 -4 0 312 416
+doberman 0.8508 33 2 329 416

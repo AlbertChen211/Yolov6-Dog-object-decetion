@@ -1,0 +1,26 @@
+<annotation>
+	<folder>薩摩耶jpg416</folder>
+	<filename>samoyed23.jpg</filename>
+	<path>C:/Users/USER/Downloads/薩摩耶jpg416/samoyed23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samoyed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>55</ymin>
+			<xmax>396</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

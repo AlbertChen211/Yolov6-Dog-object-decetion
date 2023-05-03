@@ -1,0 +1,4 @@
+Pomeranian 0.0275 230 238 417 411
+dachshund 0.0014 19 106 352 398
+labrado 0.9447 29 117 353 395
+golden retriever 0.0013 21 106 351 400

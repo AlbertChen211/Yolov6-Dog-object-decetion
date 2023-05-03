@@ -1,0 +1,26 @@
+<annotation>
+	<folder>法鬥</folder>
+	<filename>b223.jpg</filename>
+	<path>C:/Users/yifan/OneDrive/桌面/法鬥/b223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulldog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>118</ymin>
+			<xmax>240</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,4 @@
+bulldog 0.0038 29 2 332 411
+golden retriever 0.0045 29 2 332 411
+doberman 0.9074 80 0 320 416
+yorkshire 0.0014 29 2 332 411

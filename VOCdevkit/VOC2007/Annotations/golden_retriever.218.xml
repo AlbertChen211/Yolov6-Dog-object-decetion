@@ -1,0 +1,26 @@
+<annotation>
+	<folder>黃金獵犬jpg416</folder>
+	<filename>golden218.jpg</filename>
+	<path>C:/Users/USER/Downloads/黃金獵犬jpg416/golden218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>golden retriever</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>17</ymin>
+			<xmax>334</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>柴犬jpg416</folder>
+	<filename>s127.jpg</filename>
+	<path>C:/Users/USER/Downloads/柴犬jpg416/s127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shiba</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>2</ymin>
+			<xmax>342</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

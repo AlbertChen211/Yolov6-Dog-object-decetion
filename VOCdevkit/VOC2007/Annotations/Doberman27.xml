@@ -1,0 +1,26 @@
+<annotation>
+	<folder>杜賓犬jpg</folder>
+	<filename>Doberman27.jpg</filename>
+	<path>C:/Users/yifan/OneDrive/桌面/杜賓犬/杜賓犬jpg/Doberman27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doberman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>90</ymin>
+			<xmax>374</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

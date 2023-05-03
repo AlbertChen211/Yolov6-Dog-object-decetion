@@ -1,0 +1,8 @@
+bulldog 0.0011 382 -1 415 66
+Corgi 0.0049 382 -1 415 66
+Pomeranian 0.0022 378 0 415 67
+dachshund 0.0564 376 0 415 69
+dachshund 0.0013 359 1 415 41
+doberman 0.0076 378 0 415 67
+yorkshire 0.9306 136 80 257 311
+yorkshire 0.1332 378 0 415 67

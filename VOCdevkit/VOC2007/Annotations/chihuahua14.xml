@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chihuahua.jpg</folder>
+	<filename>chihuahua14.JPG</filename>
+	<path>C:/Users/user/Desktop/photo/chihuahua.jpg/chihuahua14.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuahua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>60</ymin>
+			<xmax>267</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

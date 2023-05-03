@@ -1,0 +1,5 @@
+dachshund 0.6833 80 -4 322 370
+dachshund 0.0036 275 -16 418 318
+dachshund 0.0014 2 -6 229 247
+yorkshire 0.0012 1 -2 230 225
+yorkshire 0.0012 30 1 338 412

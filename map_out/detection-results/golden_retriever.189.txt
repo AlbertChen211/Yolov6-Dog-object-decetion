@@ -1,0 +1,2 @@
+labrado 0.0014 11 6 424 422
+golden retriever 0.7250 20 2 347 414

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>巴哥jpg416</folder>
+	<filename>Pug40.jpg</filename>
+	<path>C:/Users/USER/Downloads/巴哥jpg416/Pug40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>77</ymin>
+			<xmax>404</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

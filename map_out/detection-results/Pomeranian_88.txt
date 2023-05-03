@@ -1,0 +1,4 @@
+Pomeranian 0.8433 85 17 341 403
+Pomeranian 0.0043 -1 0 74 91
+Pomeranian 0.0025 22 300 325 416
+dachshund 0.0022 63 4 342 406

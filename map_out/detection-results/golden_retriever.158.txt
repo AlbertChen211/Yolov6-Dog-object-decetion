@@ -1,0 +1,2 @@
+golden retriever 0.8928 69 8 340 417
+golden retriever 0.0010 1 155 260 413

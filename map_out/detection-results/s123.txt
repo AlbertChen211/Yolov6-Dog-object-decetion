@@ -1,0 +1,2 @@
+shiba 0.9571 29 1 404 417
+golden retriever 0.0015 30 1 401 415

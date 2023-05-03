@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Maltese</folder>
+	<filename>maltese (162).JPG</filename>
+	<path>C:/Users/user/Desktop/Maltese/maltese (162).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maltese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>108</ymin>
+			<xmax>276</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

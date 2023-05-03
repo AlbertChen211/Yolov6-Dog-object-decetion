@@ -1,0 +1,26 @@
+<annotation>
+	<folder>哈士奇</folder>
+	<filename>h79.jpg</filename>
+	<path>C:/Users/yifan/OneDrive/桌面/哈士奇/h79.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>husky</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>36</ymin>
+			<xmax>264</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

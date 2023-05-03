@@ -1,0 +1,4 @@
+Pomeranian 0.8906 50 39 389 398
+Pomeranian 0.0768 299 96 416 396
+Pomeranian 0.0037 368 92 417 379
+Pomeranian 0.0010 178 0 419 124

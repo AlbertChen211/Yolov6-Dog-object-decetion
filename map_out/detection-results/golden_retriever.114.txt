@@ -1,0 +1,3 @@
+dachshund 0.0049 0 7 39 334
+dachshund 0.0014 0 2 105 357
+golden retriever 0.9298 22 76 366 363

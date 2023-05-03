@@ -1,0 +1,26 @@
+<annotation>
+	<folder>拉不拉多416JPG</folder>
+	<filename>labrado11.jpg</filename>
+	<path>C:/Users/yifan/OneDrive/桌面/拉不拉多416JPG/拉不拉多416JPG/labrado11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>labrado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>17</ymin>
+			<xmax>273</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

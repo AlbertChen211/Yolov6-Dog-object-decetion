@@ -1,0 +1,5 @@
+dachshund 0.8738 58 6 291 415
+dachshund 0.0042 136 0 365 50
+dachshund 0.0028 227 1 409 49
+dachshund 0.0014 117 0 286 38
+dachshund 0.0012 166 0 417 81

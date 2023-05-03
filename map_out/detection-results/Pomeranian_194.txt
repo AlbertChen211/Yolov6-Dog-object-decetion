@@ -1,0 +1,4 @@
+Corgi 0.0021 4 3 403 415
+Pomeranian 0.9398 0 0 414 419
+Pomeranian 0.0068 305 12 416 412
+Pomeranian 0.0047 0 55 15 314
